@@ -1,0 +1,20 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyShowingBookingApi", "src\PropertyShowingBookingApi\PropertyShowingBookingApi.csproj", "{6F8B45C1-E2C0-4FCA-9E8F-EEDEB562B637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyShowingBookingApi.Tests", "tests\PropertyShowingBookingApi.Tests\PropertyShowingBookingApi.Tests.csproj", "{D5A9B0A4-FE30-4A8E-92E3-7CCAA0E7B0FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8B45C1-E2C0-4FCA-9E8F-EEDEB562B637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8B45C1-E2C0-4FCA-9E8F-EEDEB562B637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A9B0A4-FE30-4A8E-92E3-7CCAA0E7B0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A9B0A4-FE30-4A8E-92E3-7CCAA0E7B0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
